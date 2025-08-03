@@ -1,6 +1,8 @@
 let number = 9;
 
-for (let i = 1; i <= 10; i++) {
+let i = 1;
+
+while (i <= 10) {
 
     let result = number * i;
     // console.log(result);
@@ -19,4 +21,5 @@ for (let i = 1; i <= 10; i++) {
     // console.log(number + ' x ' + i + ' = ' + (number * i));
     // console.log(`${number} x ${i} = ${number * i}`);
 
+    i++;
 }
