@@ -1,4 +1,4 @@
-// Write for loop 1 to 200. Use break to exit the loop once you find 100.
+// Write (for loop) 1 to 200. Use (break) to exit the loop once you find 100.
 for (let i = 1; i <= 200; i++) {
     console.log('for loop:', i);
     if (i === 100) {
@@ -18,7 +18,7 @@ for (let i = 1; i <= 200; i++) {
 
 
 
-// Write while loop 1 to 200. Use break to exit the loop once you find 100.
+// Write (while loop) 1 to 200. Use (break) to exit the loop once you find 100.
 let i = 1;
 
 while (i <= 200) {
